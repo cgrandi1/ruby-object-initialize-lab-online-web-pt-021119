@@ -20,4 +20,3 @@ end
 
 class Dog
   
-  def initialize
